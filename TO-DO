@@ -1,0 +1,8 @@
+TO DO:
+  spring:
+    - logout
+    - UUID indstead of sequence for id generation 
+    - refresh token
+  react:
+    - register / login
+    - add / remove recipe
