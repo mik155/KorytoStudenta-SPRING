@@ -1,0 +1,6 @@
+[submodule "SPRING_BOOT_API"]
+	path = SPRING_BOOT_API
+	url = https://github.com/mik155/Koryto_Studenta_SPRING
+[submodule "REACT_CLIENT"]
+	path = REACT_CLIENT
+	url = https://github.com/mik155/Koryto_Studenta_REACT
